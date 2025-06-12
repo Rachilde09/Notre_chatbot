@@ -1,4 +1,6 @@
-#Description du projet
+# Description du projet
+
+
 Jub Jubal Junbati est une entreprise créée le 24 mars 2023.
 Nous sommes spécialisés dans la distribution de produits alimentaires.
 Nos produits incluent du lait frais, différentes boissons, de l'eau minérale, et des charcuteries de qualité.
