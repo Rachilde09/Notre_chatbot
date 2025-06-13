@@ -6,12 +6,17 @@
 
 
 
-Jub Jubal Junbati est une entreprise créée le 24 mars 2023.
-Nous sommes spécialisés dans la distribution de produits alimentaires.
-Nos produits incluent du lait frais, différentes boissons, de l'eau minérale, et des charcuteries de qualité.
-Vous pouvez nous retrouver à Point E, bâtiment 204, Dakar.
-Nous proposons des produits à des prix très abordables.
-Notre objectif est de fournir à nos clients des produits alimentaires sains et accessibles.
+Ce projet est une application web développée avec Streamlit. Elle propose un chatbot interactif pour présenter l'entreprise Jub Jubal Junbati, spécialisée dans la distribution de produits alimentaires tels que le lait, les boissons, l'eau, et la charcuterie.
+
+
+
+## Fonctionnalités
+
+L'application permet à l'utilisateur d'interagir avec un chatbot capable de répondre à des questions sur :
+- L'entreprise
+- Ses produits
+- Ses services
+
 
 ## Technologies utilisées
 * [Python](https://www.python.org/)
@@ -22,5 +27,8 @@ Notre objectif est de fournir à nos clients des produits alimentaires sains et 
 ## Auteur
 ANGOR RACHILDE NORA
 
+
 ## Déploiement
+
 Cette application est déployée sur Streamlit Cloud.
+
